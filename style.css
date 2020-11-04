@@ -8,8 +8,8 @@ body {
 }
     
 a{
-    text-decoration: line-through;
-    color: dimgrey;
+    
+    color: rgb(71, 9, 187);
 
 }
 #title, .subtitle, .post_title {
